@@ -3,3 +3,4 @@ sg.2002022.xyz
 sg2.2002022.xyz
 hk.2002022.xyz
 hk2.2002022.xyz
+dns.melikeme.cn
